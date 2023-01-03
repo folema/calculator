@@ -1,0 +1,18 @@
+.header{
+    font-size: 24px;
+}
+.calcBody{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    height: 200px;
+    width: 180px;
+    background-color: rgb(rgb(118, 114, 114), green, blue);
+    
+}
+.number{
+    border: 2px solid grey;
+}
+.operator{
+    border: 2px solid black;
+}
